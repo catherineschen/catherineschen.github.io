@@ -1,6 +1,6 @@
 ---
-permalink: /projects
-title: "Projects"
+permalink: /contact
+title: "Contact"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 # redirect_from: 

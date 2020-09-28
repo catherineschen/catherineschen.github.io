@@ -1,10 +1,10 @@
 ---
-permalink: /projects
-title: "Projects"
+permalink: /presentations
+title: "Presentations"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 # redirect_from: 
-#   - "/projects"
+#   - "/presentations"
 ---
 
 This page is a work in progress. Please check back again later :)

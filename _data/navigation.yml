@@ -7,19 +7,22 @@ main:
   #   url: /about/   
 
   - title: "CV"
-    url: /cv/ 
+    url: /cv
 
   - title: "Projects"
-    url: /projects/
+    url: /projects
+
+  - title: "Presentations"
+    url: /presentations
 
   - title: "Teaching"
-    url: /teaching/   
+    url: /teaching
     
   - title: "Running"
-    url: /running/
+    url: /running
     
   - title: "Contact"
-    url: /contact/
+    url: /contact
         
   # - title: "Blog Posts"
   #   url: /year-archive/
