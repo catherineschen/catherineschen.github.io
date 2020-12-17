@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer with experience developing web applications using React, JavaScript, Golang, and Ruby on Rails. My previous experience also includes AI/ML research on factors that lead to successful startups, explainable artificial intelligence, and natural language processing. In my spare time, I enjoy rock climbing, running, and discovering new restaurants. 
+I am a software engineer with experience developing web applications using React, JavaScript, Golang, and Ruby on Rails. My previous experience also includes AI/ML research on factors that lead to successful startups, explainable artificial intelligence, and natural language processing. I received my BA in Computer Science and French from Wellesley College, where I was also a member of the Track & Field and Swimming & Diving Teams. In my spare time, I enjoy rock climbing, running, and discovering new restaurants. 
 
 Recent News
 ======
