@@ -1,7 +1,7 @@
 ---
 permalink: /presentations
 title: "Presentations"
-excerpt: "This is a page not in th emain menu"
+excerpt: ""
 author_profile: true
 # redirect_from: 
 #   - "/presentations"

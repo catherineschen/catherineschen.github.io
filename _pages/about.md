@@ -12,7 +12,7 @@ I am a software engineer with experience developing web applications using React
 
 Recent News
 ======
-* 08/05/2019 - Started working at FreeWheel in NYC as a Software Engineer on the Creative Squad
+* 08/05/2019 - Started working at [FreeWheel](https://www.freewheel.com/) in NYC as a Software Engineer on the Creative Squad
 * 05/31/2019 - Graduated from Wellesley College with a B.A. in Computer Science and French
 * 04/30/2019 - Presented at Ruhlman on applications of ML to start-up investing - [Wellesley Student-Athletes Present at 2019 Ruhlman Conference](https://www.wellesleyblue.com/general/2018-19/releases/20190430kmuzxx)
 * 04/27/2019 - Won the 100m hurdles at the NEWMAC Conference Championships - [Chen Takes 100m Hurdles Title, Wellesley Track & Field 8th at NEWMACs](https://www.wellesleyblue.com/sports/wtrack/2018-19/releases/20190427rbevnn)
@@ -22,7 +22,7 @@ Recent News
 * 05/02/2018 - Presented at Rulhman on a panel discussing the portrayal of artificial intelligence in media - [Wellesley Student-Athletes Present At 22nd Annual Ruhlman Conference](https://www.wellesleyblue.com/general/2017-18/releases/20180426q6sbin)
 
 
-*Last updated December 28, 2020*
+*Last updated December 29, 2020*
 
 
 <!-- Create content & metadata
