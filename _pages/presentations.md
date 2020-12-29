@@ -7,17 +7,24 @@ author_profile: true
 #   - "/presentations"
 ---
 
-# Using Machine Learning to Predict Startup Success  
-## Ruhlman Conference - Wellesley, MA (May 2019)
+A work in progress :)  
+
+---  
+
+Using Machine Learning to Predict Startup Success  
+======
+**Ruhlman Conference - Wellesley, MA (May 2019)**  
 <details>
   <summary>Full Abstract</summary>
   What makes a startup successful? Is it the uniqueness of their product? Their founders' educational backgrounds? The number of employees they hire? In an age where entrepreneurship is becoming exceedingly popular, it becomes more and more difficult for venture capitalists to sort through all these factors and determine if companies they invest in will become successful. In collaboration with Glasswing Ventures, a Boston-based VC firm founded by Wellesley alum Rudina Seseri ('00), this project uses machine learning to estimate the likelihood of an early, seed-stage startup successfully closing a Series A funding round and to determine the criteria relevant to startup success. Using data collected from CrunchBase and LinkedIn, this presentation will focus on the use of social information to conclude whether or not founders' backgrounds significantly impact the future of their companies.
 </details>
 <br />
 
+---  
+
 Artificial Intelligence: From Fiction to Reality
 ======
-Ruhlman Conference - Wellesley, MA (May 2018)  
+**Ruhlman Conference - Wellesley, MA (May 2018)**  
 *Panel Discussion with Michelle Lu, Olivia Strobl, Grace Owen, Ruanqianqian (Lisa) Huang, and Dagmawit Libanos Assefa*
 <details>
   <summary>Full Abstract</summary>
