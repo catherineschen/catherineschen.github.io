@@ -9,6 +9,8 @@ author_profile: true
 
 More info to come :)
 
+---  
+
 Application of ML to Start-Up Investing
 ======
 During my senior year at Wellesley, I worked with researchers from [Glasswing Ventures](https://glasswing.vc/) to investigate influential factors for startup success.
@@ -21,6 +23,8 @@ During my senior year at Wellesley, I worked with researchers from [Glasswing Ve
 *Faculty Advisor(s): Dr. Katie Hall, Dr. Paul Ruvulo (Olin)*  
 *Glasswing Collaborator: Vlad Senjoha*  
 *Also with: Olivia Strobl ('19), Shreya Parjan ('21), Donna Gan ('20), and Tina Zhang ('19)*  
+
+---  
 
 Interactive Discovery of Semantics in Deep Networks
 ======
