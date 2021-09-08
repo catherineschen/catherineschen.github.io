@@ -7,7 +7,7 @@ author_profile: true
 #   - "/presentations"
 ---
 
-A work in progress :)  
+Talks that I've given at conferences throughout the years
 
 ---  
 

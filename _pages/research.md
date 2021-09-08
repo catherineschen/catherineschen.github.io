@@ -9,7 +9,16 @@ author_profile: true
 
 **Topics:** applications of ML, explainable AI
 
----  
+---
+
+Search Transparency
+======
+**Fall 2021**  
+*Advisor: Carsten Eickhoff*
+
+Currently, I am researching methods in informational retrieval and developing techniques to make search models more transparent and trustworthy.
+
+---
 
 Application of ML to Start-Up Investing
 ======
