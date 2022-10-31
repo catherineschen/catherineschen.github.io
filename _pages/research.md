@@ -7,16 +7,16 @@ author_profile: true
 #   - "/research"
 ---
 
-**Topics:** applications of ML, explainable AI
+**Topics:** explainable AI, information retrieval, natural language processing, applications of ML
 
 ---
 
-Search Transparency
+Evaluating Search Explainability
 ======
-**Fall 2021**  
+**Fall 2021 - 2022**  
 *Advisor: Carsten Eickhoff*
 
-Currently, I am researching methods in informational retrieval and developing techniques to make search models more transparent and trustworthy.
+Currently, I am researching methods in informational retrieval and developing techniques to evaluate explainability in web search systems.
 
 ---
 
@@ -25,11 +25,11 @@ Application of ML to Start-Up Investing
 During my senior year at Wellesley, I worked with researchers from [Glasswing Ventures](https://glasswing.vc/) to investigate influential factors for startup success.
 
 **Spring 2019**  
-*Faculty Advisor: Dr. Brian Tjaden*  
+*Advisor: Dr. Brian Tjaden*  
 *Glasswing Collaborator(s): Vlad Sejnoha, Jay Chava*  
 
 **Fall 2018**  
-*Faculty Advisor(s): Dr. Katie Hall, Dr. Paul Ruvulo (Olin)*  
+*Advisor(s): Dr. Katie Hall, Dr. Paul Ruvulo (Olin)*  
 *Glasswing Collaborator: Vlad Sejnoha*  
 *Also with: Olivia Strobl ('19), Shreya Parjan ('21), Donna Gan ('20), and Tina Zhang ('19)*  
 

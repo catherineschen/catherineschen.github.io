@@ -7,9 +7,9 @@ redirect_from:
   - /about
   - /about.html
 ---
-I am a first year PhD student at Brown University working with Carsten Eickhoff in the [AI Lab](https://brown.edu/Research/AI/index.html) at the Brown Center for Biomedical Informatics. My research interests include interpretable ML and applications of ML in healthcare. Previously, I worked as a software engineer for FreeWheel in NYC to develop advertising technology solutions. I received my BA in Computer Science and French from Wellesley College, where I was also a member of the Track & Field and Swimming & Diving Teams. In my spare time, I enjoy running, other outdoor activities, and exploring local restaurants/bars.
+I am a second year PhD student at Brown University working with Carsten Eickhoff in the [AI Lab](https://brown.edu/Research/AI/index.html) at the Brown Center for Biomedical Informatics. My research interests include explainability, information retrieval (IR), natural language processing (NLP), and biomedical applications of ML. Previously, I worked as a full-stack software engineer for FreeWheel in NYC to develop advertising technology solutions. I received my BA in Computer Science and French from Wellesley College, where I was also a member of the Track & Field and Swimming & Diving Teams. In my spare time, I enjoy running, hiking, biking, climbing, cooking, and exploring local restaurants/bars.
 
-Recent News
+Recent News 
 ======
 * 09/06/2021 - Started my PhD at Brown University!
 * 06/01/2021 - Moved to Providence, RI
@@ -23,4 +23,4 @@ Recent News
 * 05/02/2018 - Presented at Rulhman on a panel discussing the portrayal of artificial intelligence in media - [Wellesley Student-Athletes Present At 22nd Annual Ruhlman Conference](https://www.wellesleyblue.com/general/2017-18/releases/20180426q6sbin)
 
 
-*Last updated September 7, 2021*
+*Last updated October 31, 2022*

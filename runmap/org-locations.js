@@ -23,5 +23,10 @@ var addressPoints = [
     "MoRun 5K (2017) - Edinburgh, UK",
     55.9505,
     -3.1675
+  ],
+  [
+    "Providence Half Marathon (2022) - Providence, RI",
+    41.8240,
+    -71.4128
   ]
 ];

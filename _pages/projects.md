@@ -7,7 +7,7 @@ author_profile: true
 #   - "/projects"
 ---
 
-This page houses a collection of coding and research projects that I have completed throughout the years, mostly in pursuit of my undergraduate degree.  
+This page houses a collection of coding and mini-research projects that I have completed throughout the years, mostly in pursuit of my undergraduate degree.  
 
 **Programming Languages Used:** Python, Java  
 **Topics:** recommender systems, NLP, probabilistic modelling, deep learning, GUIs  
