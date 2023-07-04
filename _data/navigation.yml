@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications
 
-  - title: "Research"
-    url: /research
+  # - title: "Research"
+  #   url: /research
 
   - title: "Mentorship"
     url: /mentorship
@@ -19,8 +19,8 @@ main:
   - title: "Service"
     url: /service
 
-  - title: "Projects"
-    url: /projects
+  # - title: "Projects"
+  #   url: /projects
 
   - title: "Talks"
     url: /talks
@@ -31,8 +31,8 @@ main:
   - title: "Running"
     url: /running
     
-  # - title: "Contact"
-  #   url: /contact
+  - title: "Contact"
+    url: /contact
         
   # - title: "Blog Posts"
   #   url: /year-archive/

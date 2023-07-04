@@ -4,7 +4,7 @@ title: "Contact"
 author_profile: true
 ---
 
-This page is a work in progress. Please check back again later :)
+Email: catherine_s_chen [at] brown [dot] edu
 
 <!-- Heading 1
 ======
