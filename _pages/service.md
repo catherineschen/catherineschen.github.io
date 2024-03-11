@@ -5,16 +5,16 @@ excerpt: ""
 author_profile: true
 ---
 
-**Graduate Community Fellow** (Fall 2022 - Present)  
-*Graduate School, Brown University*
-
 **CS Department Representative** (Fall 2022 - Present)  
 *Graduate Student Council, Brown University*
 
 **Graduate Student Orientation and Recruitment** (Spring 2022 - Present)  
 *Department of Computer Science, Brown University*
 
-**Diversity and Inclusion Student Committee** (Fall 2021 - Present)  
+**Graduate Community Fellow** (Fall 2022 - Spring 2023)  
+*Graduate School, Brown University*
+
+**Diversity and Inclusion Student Committee** (Fall 2021 - Spring 2022)  
 *Department of Computer Science, Brown University*
 
 **Alumnae Mentor** (Fall 2020 - Spring 2022)  

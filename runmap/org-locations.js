@@ -28,5 +28,10 @@ var addressPoints = [
     "Providence Half Marathon (2022) - Providence, RI",
     41.8240,
     -71.4128
+  ],
+  [
+    "Boston 10K for Women (2021) - Boston, MA",
+    42.3554,
+    -71.0640
   ]
 ];
