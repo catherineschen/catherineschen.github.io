@@ -5,6 +5,9 @@ excerpt: ""
 author_profile: true
 ---
 
+**Kora Helm**, University of Tuebingen (Sept 2023 - Present)
+*Master's Thesis*
+
 **Pearl Zhang**, Swarthmore College (Jan - May 2023)  
 *ExploreCSR: Socially Responsible AI for Computational Creativity, Brown University*
 
