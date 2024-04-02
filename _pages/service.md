@@ -5,6 +5,9 @@ excerpt: ""
 author_profile: true
 ---
 
+**Co-organizer** (April 2024)
+*New England NLP Meetup, Brown University*
+
 **CS Department Representative** (Fall 2022 - Present)  
 *Graduate Student Council, Brown University*
 

@@ -11,6 +11,7 @@ I am a third year PhD Candidate at Brown University working with Carsten Eickhof
 
 Recent News 
 ======
+* 03/25/2024 - 2/2 of our long papers were accepted to SIGIR 2024! [Preview them here](https://catherineschen.github.io/publications/)
 * 12/06/2023 - Attended EMNLP in Singapore and presented our paper [Outlier Dimensions Encode Task Specific Knowledge](https://aclanthology.org/2023.emnlp-main.901.pdf)
 * 07/23/2023 - Attended SIGIR in Taiwan and workshopped my dissertation in the Doctoral Consortium
 * 05/28/2023 - Received my Master's degree and advanced to candidacy
@@ -26,4 +27,4 @@ Recent News
 * 05/02/2018 - Presented at Rulhman on a panel discussing the portrayal of artificial intelligence in media - [Wellesley Student-Athletes Present At 22nd Annual Ruhlman Conference](https://www.wellesleyblue.com/general/2017-18/releases/20180426q6sbin)
 
 
-*Last updated March 10, 2023*
+*Last updated April 2, 2024*
