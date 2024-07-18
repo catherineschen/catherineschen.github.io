@@ -7,10 +7,11 @@ redirect_from:
   - /about
   - /about.html
 ---
-I am a third year PhD Candidate at Brown University working with Carsten Eickhoff in the [Health NLP Lab](http://health-nlp.com/). My research interests include explainability, information retrieval (IR), natural language processing (NLP), and biomedical applications of ML. Previously, I worked as a full-stack software engineer for FreeWheel in NYC to develop advertising technology solutions. I received my BA in Computer Science and French from Wellesley College, where I was also a member of the Track & Field and Swimming & Diving Teams. In my spare time, I enjoy running, hiking, biking, climbing, cooking, and exploring local restaurants/bars.
+I am a rising fourth year PhD Candidate at Brown University working with Carsten Eickhoff in the [Health NLP Lab](http://health-nlp.com/). My research interests include interpretability/explainability, information retrieval (IR), natural language processing (NLP), and biomedical applications of ML. Previously, I worked as a full-stack software engineer for FreeWheel in NYC to develop advertising technology solutions. I received my BA in Computer Science and French from Wellesley College, where I was also a member of the Track & Field and Swimming & Diving Teams. In my spare time, I enjoy running, hiking, biking, climbing, cooking, and exploring local restaurants/bars.
 
 Recent News 
 ======
+* 06/03/2024 - Started working as a Data Science PhD Intern at Blue Cross and Blue Shield of Minnesota
 * 03/25/2024 - 2/2 of our long papers were accepted to SIGIR 2024! [Preview them here](https://catherineschen.github.io/publications/)
 * 12/06/2023 - Attended EMNLP in Singapore and presented our paper [Outlier Dimensions Encode Task Specific Knowledge](https://aclanthology.org/2023.emnlp-main.901.pdf)
 * 07/23/2023 - Attended SIGIR in Taiwan and workshopped my dissertation in the Doctoral Consortium
@@ -27,4 +28,4 @@ Recent News
 * 05/02/2018 - Presented at Rulhman on a panel discussing the portrayal of artificial intelligence in media - [Wellesley Student-Athletes Present At 22nd Annual Ruhlman Conference](https://www.wellesleyblue.com/general/2017-18/releases/20180426q6sbin)
 
 
-*Last updated April 2, 2024*
+*Last updated July 17, 2024*

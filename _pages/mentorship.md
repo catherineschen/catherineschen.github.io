@@ -5,7 +5,9 @@ excerpt: ""
 author_profile: true
 ---
 
-**Kora Helm**, University of Tuebingen (Sept 2023 - Present)  
+**Jennifer Lu**, Brown University (July 2024 - Present)
+
+**Kora Helm**, University of Tuebingen (Sept 2023 - July 2024)  
 *Master's Thesis*
 
 **Pearl Zhang**, Swarthmore College (Jan - May 2023)  

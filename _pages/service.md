@@ -8,10 +8,10 @@ author_profile: true
 **Co-organizer** (April 2024)
 *New England NLP Meetup, Brown University*
 
-**CS Department Representative** (Fall 2022 - Present)  
+**CS Department Representative** (Fall 2022 - May 2024)  
 *Graduate Student Council, Brown University*
 
-**Graduate Student Orientation and Recruitment** (Spring 2022 - Present)  
+**Graduate Student Orientation and Recruitment** (Spring 2022 - March 2024)  
 *Department of Computer Science, Brown University*
 
 **Graduate Community Fellow** (Fall 2022 - Spring 2023)  
