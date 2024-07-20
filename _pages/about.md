@@ -11,6 +11,7 @@ I am a rising fourth year PhD Candidate at Brown University working with Carsten
 
 Recent News 
 ======
+* 07/14/2024 - Attended SIGIR in DC and presented my first (two) first-author paper(s)!
 * 06/03/2024 - Started working as a Data Science PhD Intern at Blue Cross and Blue Shield of Minnesota
 * 03/25/2024 - 2/2 of our long papers were accepted to SIGIR 2024! [Preview them here](https://catherineschen.github.io/publications/)
 * 12/06/2023 - Attended EMNLP in Singapore and presented our paper [Outlier Dimensions Encode Task Specific Knowledge](https://aclanthology.org/2023.emnlp-main.901.pdf)
@@ -28,4 +29,4 @@ Recent News
 * 05/02/2018 - Presented at Rulhman on a panel discussing the portrayal of artificial intelligence in media - [Wellesley Student-Athletes Present At 22nd Annual Ruhlman Conference](https://www.wellesleyblue.com/general/2017-18/releases/20180426q6sbin)
 
 
-*Last updated July 17, 2024*
+*Last updated July 20, 2024*
