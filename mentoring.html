@@ -16,24 +16,22 @@ body_attr: >-
                         <ul class="list-unstyled mb-1">
                             {% for file in site.mentoring %}
                             <li class="py-1 border-top border-gray">
-                                <!-- <div class="media-body"> -->
-                                    <h5>{{ file.type }}</h5>
-                                    <ul class="list-unstyled">
-                                        {% for person in file.people %}
-                                        <li>
-                                            <div class="d-flex text-align-bottom">
-                                                <div>
-                                                    {{ person.name }} ({{ person.institution }})
-                                                </div>
-                                                {% if person.with %}
-                                                    <div class="text-muted small text-pad-left no-break"> with {{ person.with }}</div>
-                                                {% endif %}
-                                                <div class="mt-auto ml-auto no-break"><em>{{ person.date }}</em></div>
+                                <h5>{{ file.type }}</h5>
+                                <ul class="list-unstyled">
+                                    {% for person in file.people %}
+                                    <li>
+                                        <div class="d-flex text-align-bottom">
+                                            <div>
+                                                {{ person.name }} ({{ person.institution }})
                                             </div>
-                                        </li>
-                                        {% endfor %}
-                                    </ul>
-                                <!-- </div> -->
+                                            {% if person.with %}
+                                                <div class="text-muted small text-pad-left no-break"> with {{ person.with }}</div>
+                                            {% endif %}
+                                            <div class="mt-auto ml-auto no-break"><em>{{ person.date }}</em></div>
+                                        </div>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
                             </li>
                             {% endfor %}
                         </ul>
