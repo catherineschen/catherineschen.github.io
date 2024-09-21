@@ -37,3 +37,5 @@ plugins:
 collections:
   - publications
   - news
+  - mentoring
+  - service

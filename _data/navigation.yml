@@ -5,7 +5,7 @@ pages:
   url: /catherinechencv.pdf
 - name: Publications
   url: /publications
-# - name: Mentorship
-#   url: /mentorship
-# - name: Service
-#   url: /service
+- name: Mentoring
+  url: /mentoring
+- name: Service
+  url: /service

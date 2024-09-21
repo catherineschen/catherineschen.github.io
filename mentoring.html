@@ -1,0 +1,68 @@
+---
+layout: default
+title : Mentoring
+navbar_title: Mentoring
+body_attr: >-
+  data-spy="scroll" data-target="#navbar-year" data-offset="100"
+---
+
+<div class="row">
+    <div class="col">
+        <div class="card border-0 shadow-sm bg-white">
+            <div class="card-body p-5">
+                <div class="row">
+                    <div class="col-12 mx-2 my-1">
+                        <h2>Mentoring</h2>
+                        <ul class="list-unstyled mb-1">
+                            {% for file in site.mentoring %}
+                            <li class="py-1 border-top border-gray">
+                                <!-- <div class="media-body"> -->
+                                    <h5>{{ file.type }}</h5>
+                                    <ul class="list-unstyled">
+                                        {% for person in file.people %}
+                                        <li>
+                                            <div class="d-flex text-align-bottom">
+                                                <div>
+                                                    {{ person.name }} ({{ person.institution }})
+                                                </div>
+                                                {% if person.with %}
+                                                    <div class="text-muted small text-pad-left no-break"> with {{ person.with }}</div>
+                                                {% endif %}
+                                                <div class="mt-auto ml-auto no-break"><em>{{ person.date }}</em></div>
+                                            </div>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                <!-- </div> -->
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
+<!-- <div class="row">
+    <div class="col-12">
+        <h1 class="pt-4" style="color: #333;">Mentoring</h1>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+            <p style="padding: 20px; font-size: 16px; color: #666;">
+                {% for file in site.mentoring %}
+                <h2>{{ file.type }}</h2>
+                <div class="people-list">
+                    {% assign people = file.people %}
+                    {% for person in people %}
+                    <div class="person">
+                        <h5>{{ person.name }}</h5>
+                        <p><strong>Institution:</strong> {{ person.institution }}</p>
+                        <p><strong>Date:</strong> {{ person.date }}</p>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </p>
+        </div>
+    </div>
+</div> -->
