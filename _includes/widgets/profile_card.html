@@ -33,7 +33,10 @@
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}"
                             >
-                            <figcaption class="figure-caption text-right"></figcaption>
+                            <!-- <figcaption class="figure-caption text-right"></figcaption> -->
+                            <figcaption class="figure-caption text-center" style="font-family: 'Courier New', monospace; font-size: 0.67rem;">
+                                {{ site.data.profile.email }}
+                            </figcaption>
                         </figure>
                     </div>
                     {% endif %}
@@ -42,9 +45,9 @@
                 <hr />
                 <div class="row">
                     <div class="col">
-                        <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
+                        <!-- <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
                             <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
-                        </a>
+                        </a> -->
 
                         {% if site.data.profile.gscholar %}
                         <a class="pr-3 no-break" target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}&hl=en">

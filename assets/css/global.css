@@ -59,3 +59,11 @@ img.lazy {
     font-family: Courier, monospace;
 }
 
+.abstract-text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2; /* Number of lines to show */
+    max-height: calc(2 * 1.2em); /* Adjust based on line height, e.g., 1.2em */
+    line-height: 1.2em; /* Set your line height */
+}
