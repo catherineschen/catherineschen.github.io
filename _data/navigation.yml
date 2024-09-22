@@ -7,5 +7,5 @@ pages:
   url: /publications
 - name: Mentoring
   url: /mentoring
-- name: Service
-  url: /service
+# - name: Service
+#   url: /service
