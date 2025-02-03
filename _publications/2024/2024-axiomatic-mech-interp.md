@@ -16,6 +16,6 @@ authors:
   - Jack Merullo
   - Carsten Eickhoff
 links:
-#   Code: https://github.com/luost26/academic-homepage
-  Paper: https://dl.acm.org/doi/abs/10.1145/3626772.3657841
+  Paper: https://arxiv.org/abs/2405.02503
+  Code: https://github.com/catherineschen/axiomatic-ir-interventions
 ---

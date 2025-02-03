@@ -25,6 +25,11 @@ short_bio: >-
   <p>
     I am a fourth year PhD Candidate at Brown University working with Carsten Eickhoff in the 
     <a href="https://health-nlp.com/" target="_blank">Health NLP Lab</a>.
+    Currently, I am spending Spring 2025 as a visiting researcher in the <a href="https://irlab.science.uva.nl/">IRLab </a>
+    at the University of Amsterdam, hosted by Maarten de Rijke.
+  </p>
+
+  <p>
     My research centers on explainable information retrieval (XIR), particularly developing methods 
     for interpretable and explainable search. I am also broadly interested in the interpretability of LLMs 
     and the applications of ML/NLP/IR to the biomedical domain. Overall, my work aims to bridge the 
@@ -39,7 +44,7 @@ short_bio: >-
   </p>
 
   <p>
-    In my spare time, I enjoy running, hiking, cooking, and exploring local restaurants/bars.
+    In my spare time, I enjoy running, ice skating, cooking, and exploring local restaurants/bars.
   </p>
 
 
@@ -56,19 +61,32 @@ education:
     - title: Ph.D. in Computer Science
       date: Sep. 2021 - Present
     - title: Sc.M. in Computer Science
-      date: Sep. 2021 - May 2023
+      date: Sep 2021 - May 2023
 - name: Wellesley College
   logo: /assets/images/badges/wellesley-logo.png
   positions: 
     - title: B.A. in Computer Science and French
-      date: Sep. 2015 - May 2019
+      date: Sep 2015 - May 2019
 
 
-research_interests:
-- name: Interpretability/Explainability
-  # date: 2024
-- name: Information Retrieval
-  # date: 2021
-- name: Natural Language Processing
-  # date: 2021
-- name: Biomedical Applications of ML
+# research_interests:
+# - name: Interpretability/Explainability
+#   # date: 2024
+# - name: Information Retrieval
+#   # date: 2021
+# - name: Natural Language Processing
+#   # date: 2021
+# - name: Biomedical Applications of ML
+
+experience:
+- name: Blue Cross Blue Shield of MN
+  logo: /assets/images/badges/bcbs-logo.jpg
+  position: Data Science PhD Intern
+  # dept: AI Models and Platform Team
+  date: June - Sept 2024
+- name: FreeWheel, a Comcast Company
+  logo: /assets/images/badges/freewheel-logo.png
+  position: Software Engineer
+  # dept: Creative Team
+  date: Aug 2019 - Aug 2021
+    
