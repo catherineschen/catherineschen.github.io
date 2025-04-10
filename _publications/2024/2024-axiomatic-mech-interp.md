@@ -18,4 +18,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2405.02503
   Code: https://github.com/catherineschen/axiomatic-ir-interventions
+  Video: https://www.youtube.com/watch?v=gbjXmMZMOe8
 ---
