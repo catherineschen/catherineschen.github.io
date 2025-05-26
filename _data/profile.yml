@@ -25,7 +25,7 @@ short_bio: >-
   <p>
     I am a fourth year PhD Candidate at Brown University working with Carsten Eickhoff in the 
     <a href="https://health-nlp.com/" target="_blank">Health NLP Lab</a>.
-    Currently, I am spending Spring 2025 as a visiting researcher in the <a href="https://irlab.science.uva.nl/">IRLab </a>
+    Recently, I spent Spring 2025 as a visiting researcher in the <a href="https://irlab.science.uva.nl/">IRLab </a>
     at the University of Amsterdam, hosted by Maarten de Rijke.
   </p>
 
@@ -79,6 +79,10 @@ education:
 # - name: Biomedical Applications of ML
 
 experience:
+- name: Centre for the Governance of AI
+  logo: /assets/images/badges/govai-logo.jpeg
+  position: Summer Fellow
+  date: June 2025 - Present
 - name: Blue Cross Blue Shield of MN
   logo: /assets/images/badges/bcbs-logo.jpg
   position: Data Science PhD Intern
