@@ -23,19 +23,19 @@ linkedin: cschen3753
 short_bio: >-
 
   <p>
-    I am a fourth year PhD Candidate at Brown University working with Carsten Eickhoff in the 
+    I am a fifth year PhD Candidate at Brown University working with Carsten Eickhoff in the 
     <a href="https://health-nlp.com/" target="_blank">Health NLP Lab</a>.
-    Recently, I spent Spring 2025 as a visiting researcher in the <a href="https://irlab.science.uva.nl/">IRLab </a>
-    at the University of Amsterdam, hosted by Maarten de Rijke. Currently, I'm in London working as a Summer Fellow at the
-    <a href="https://www.governance.ai/" target="_blank">Centre for the Governance of AI</a>.
+    Recently, I spent the summer in London working as a Summer Fellow at the 
+    <a href="https://www.governance.ai/" target="_blank">Centre for the Governance of AI</a>, where I was supervised by Jakob Mökander.
+    Before that, I spent Spring 2025 as a visiting researcher in the <a href="https://irlab.science.uva.nl/">IRLab </a>
+    at the University of Amsterdam, hosted by Maarten de Rijke and Maria Heuss.
   </p>
 
   <p>
     My research centers on explainable information retrieval (XIR), particularly developing methods 
     for interpretable and explainable search. I am also broadly interested in the interpretability of LLMs 
-    and the applications of ML/NLP/IR to the biomedical domain. Overall, my work aims to bridge the 
-    gap between model transparency and practical deployment, contributing to the development of more 
-    accountable and trustworthy AI systems.
+    and the applications of ML/NLP/IR to the biomedical domain. Overall, my work aims to contribute to the 
+    development of more accountable and trustworthy AI systems.
   </p>
   
   <p>
@@ -45,7 +45,7 @@ short_bio: >-
   </p>
 
   <p>
-    In my spare time, I enjoy running, ice skating, cooking, and exploring local restaurants/bars.
+    In my spare time, I enjoy running, ice skating, cooking, and exploring the local food scene.
   </p>
 
 
@@ -83,7 +83,7 @@ experience:
 - name: Centre for the Governance of AI
   logo: /assets/images/badges/govai-logo.jpeg
   position: Summer Fellow
-  date: June 2025 - Present
+  date: June - Aug 2025
 - name: Blue Cross Blue Shield of MN
   logo: /assets/images/badges/bcbs-logo.jpg
   position: Data Science PhD Intern
