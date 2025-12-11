@@ -2,7 +2,7 @@
 title:          "How role-play shapes relevance judgment in zero-shot LLM rankers"
 date:           2025-10-20 00:00:00 +0800
 selected:       true
-pub:            "ArXiv"
+# pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
