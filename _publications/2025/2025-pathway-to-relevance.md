@@ -1,6 +1,6 @@
 ---
 title:          "Pathway to Relevance: How Cross-Encoders Implement a Semantic Variant of BM25"
-date:           2025-04-06 00:00:00 +0800
+date:           2025-11-04 00:00:00 +0800
 selected:       true
 pub:            "EMNLP"
 # pub_pre:        "Submitted to "

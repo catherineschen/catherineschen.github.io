@@ -1,5 +1,5 @@
 ---
-title:          "How role-play shapes relevance judgment in zero-shot LLM rankers"
+title:          "How Role-Play Shapes Relevance Judgment in Zero-Shot LLM Rankers"
 date:           2025-10-20 00:00:00 +0800
 selected:       true
 # pub:            "ArXiv"
