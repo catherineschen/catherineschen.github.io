@@ -1,7 +1,7 @@
 ---
 title:          "Towards Best Practices of Axiomatic Activation Patching in Information Retrieval"
 date:           2025-07-13 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            "SIGIR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
