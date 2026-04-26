@@ -1,9 +1,9 @@
 ---
 title:          "How Role-Play Shapes Relevance Judgment in Zero-Shot LLM Rankers"
-date:           2025-10-20 00:00:00 +0800
+date:           2026-03-25 00:00:00 +0800
 selected:       true
 pub:            "ECIR"
-pub_pre:        "Accepted to "
+pub_pre:        ""
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
@@ -14,8 +14,8 @@ abstract: >-
 authors:
   - Yumeng Wang
   - Jirui Qi
-  - Panagiotis Eustratiadis
   - Catherine Chen
+  - Panagiotis Eustratiadis
   - Suzan Verberne
 links:
   Paper: https://arxiv.org/abs/2510.17535
