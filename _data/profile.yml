@@ -23,23 +23,20 @@ linkedin: cschen3753
 short_bio: >-
 
   <p>
-    I am a fifth year PhD Candidate at Brown University working with Carsten Eickhoff in the 
+    I am a researcher who recently defended my PhD at Brown University, where I worked with Carsten Eickhoff in the 
     <a href="https://health-nlp.com/" target="_blank">Health NLP Lab</a>.
-    Recently, I spent the summer in London working as a Summer Fellow at the 
-    <a href="https://www.governance.ai/" target="_blank">Centre for the Governance of AI</a>, where I was supervised by Jakob Mökander.
-    Before that, I spent Spring 2025 as a visiting researcher in the <a href="https://irlab.science.uva.nl/">IRLab </a>
-    at the University of Amsterdam, hosted by Maarten de Rijke and Maria Heuss.
+    Stay tuned for where I'm headed next!
   </p>
 
   <p>
-    My research centers on explainable information retrieval (XIR), particularly developing methods 
-    for interpretable and explainable search. I am also broadly interested in the interpretability of LLMs 
+    My PhD research centered on explainable information retrieval (XIR), particularly developing methods 
+    for interpretable and explainable search. I was also involved in projects relating to the broader interpretability of LLMs 
     and the applications of ML/NLP/IR to the biomedical domain. Overall, my work aims to contribute to the 
     development of more accountable and trustworthy AI systems.
   </p>
   
   <p>
-    Previously, I worked as a full-stack software engineer for FreeWheel in NYC to develop advertising technology solutions. 
+    Before my PhD, I worked as a full-stack software engineer for FreeWheel in NYC to develop advertising technology solutions. 
     I received my BA in Computer Science and French from Wellesley College, where I was also a member of the Track & Field 
     and Swimming & Diving Teams.
   </p>
@@ -60,7 +57,7 @@ education:
   logo: /assets/images/badges/brown-social-circle.jpg
   positions: 
     - title: Ph.D. in Computer Science
-      date: Sep. 2021 - Present
+      date: Sep. 2021 - July 2026
     - title: Sc.M. in Computer Science
       date: Sep 2021 - May 2023
 - name: Wellesley College
