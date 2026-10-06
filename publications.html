@@ -3,13 +3,14 @@ layout: default
 title : Publications
 navbar_title: Publications
 body_attr: >-
-  data-spy="scroll" data-target="#navbar-year" data-offset="100"
+data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
 <p><i>
-    I try to keep this list up to date, but if I'm behind, check out my 
-    <a href="https://scholar.google.com/citations?user=rkWYq-YAAAAJ&hl=en" target="_blank">Google Scholar</a> for the complete list!
-</i></p>
+        I try to keep this list up to date, but if I'm behind, check out my
+        <a href="https://scholar.google.com/citations?user=0Q7b_pcAAAAJ&hl=en" target="_blank">Google Scholar</a> for
+        the complete list!
+    </i></p>
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
@@ -20,7 +21,7 @@ body_attr: >-
         <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
             {% for item in year.items %}
-                {% include widgets/publication_item.html item=item %}
+            {% include widgets/publication_item.html item=item %}
             {% endfor %}
         </div>
         {% endfor %}

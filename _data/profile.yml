@@ -10,7 +10,7 @@ positions:
 
 email: "catherineschen@brown.edu"
 # cv_link: link-to-your-cv-file
-gscholar: rkWYq-YAAAAJ
+gscholar: 0Q7b_pcAAAAJ
 github: catherineschen
 twitter: catherineschen
 linkedin: cschen3753
@@ -23,16 +23,16 @@ linkedin: cschen3753
 short_bio: >-
 
   <p>
-    I am a researcher who recently defended my PhD at Brown University, where I worked with Carsten Eickhoff in the 
-    <a href="https://health-nlp.com/" target="_blank">Health NLP Lab</a>.
-    Stay tuned for where I'm headed next!
+    I am a postdoc at Leiden University working with Suzan Verberne in the Text Mining and Retreival Group.
+    My research focuses on how explanations shape trust in AI systems, and is funded by the Hybrid Intelligence Centre.
   </p>
 
   <p>
+    I completed my PhD at Brown University, where I worked with Carsten Eickhoff in the 
+    <a href="https://health-nlp.com/" target="_blank">Health NLP Lab</a>.
     My PhD research centered on explainable information retrieval (XIR), particularly developing methods 
     for interpretable and explainable search. I was also involved in projects relating to the broader interpretability of LLMs 
-    and the applications of ML/NLP/IR to the biomedical domain. Overall, my work aims to contribute to the 
-    development of more accountable and trustworthy AI systems.
+    and the applications of ML/NLP/IR to the biomedical domain. 
   </p>
   
   <p>
